@@ -2,7 +2,7 @@
 
 Este projeto é uma réplica da interface do Spotify, desenvolvida como parte do meu aprendizado em **React**, **HTML**, **CSS** e **JavaScript**. O objetivo foi praticar conceitos de design responsivo, componentização e manipulação de estados no React.
 
-![Spotify UI Clone](./screenshot.png)
+![Spotify Interface Replica](./screenshot.png)
 
 ## Tecnologias Utilizadas
 - React
